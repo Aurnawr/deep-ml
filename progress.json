@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:13:15.043Z",
+  "generated_at": "2026-10-02T09:25:45.186Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-10-02T09:13:13.733Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-10-02T09:25:43.925Z",
+      "last_pushed_at": "2026-10-02T09:25:43.925Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
